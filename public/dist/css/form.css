@@ -305,8 +305,8 @@ Modal CSS
 }
 
 #continue-button {
-  width: 20%;
-  height: 10%;
+  width: auto;
+  /* height: 10%; */
   border: 0;
   /* border-bottom: 1px solid black; */
   text-decoration: underline;
